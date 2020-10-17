@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+
+  display: block;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+
+  font-family: 'Piazzolla', serif;
+
+  background-color: midnightblue;
+  color: white;
+
+  padding-top: 20vh;
+  padding-bottom: 20vh;
+}
+
+/*due to size of image couldnt put blog text beside the image so had to put under*/
+
+img {
+  width: 75vw;
+}
+
+
+.blog-post {
+  display: block;
+  text-align: center;
+
+  border: 1px solid midnightblue;
+
+  padding-bottom: 4vh;
+  padding-left: 3vw;
+
+}
+
+.text {
+  display: block;
+  margin: auto; 
+
+  padding-left: 4vw;
+  width: 75vw;
+}
+
+h2 {
+  color:midnightblue;
+
+  font-family: 'Piazzolla',
+  serif;
+
+  margin: auto;
+}
+
+/*two birds one stone since h3 and a are supposed to look the same mostly*/
+
+h3, a {
+  text-decoration: none;
+
+  margin: auto;
+}
+
+h3 {
+  color: darkslategray;
+
+  font-family: 'Hind Siliguri',
+  sans-serif;
+}
+
+a {
+  color: midnightblue;
+
+  font-family: 'Piazzolla';
+}
+
+a:hover {
+  color: midnightblue;
+
+  text-decoration: underline;
+}
+
+p {
+  font-family: 'Hind Siliguri',
+  sans-serif;
+}

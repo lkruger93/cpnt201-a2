@@ -1,2 +1,4 @@
 # cpnt201-a2
 the great repository for the assignment of the course cpnt 201
+
+in this assignment where i was to make a blog I decided to make it for the horsey barn client I had in my final project for the last course.  It is about horses which is very accurate.  The images and content are all sourced to wikipedia, which turns out is open source.  Something that was a struggle was remembering that things suck in chrome so it really only works in firefox with the srcset.  Also the part of the assignment where it said to set appropriate width and height for the medium image was confusing to me as when i tried to add it in the src image in the html file it did not work at all.  Overall I think it looks pretty decent however, I used the same fonts and colour scheme for this as my previous assignment so it could make sense as a blog for that website.
